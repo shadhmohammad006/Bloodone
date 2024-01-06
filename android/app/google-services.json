@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421553013539",
+    "project_id": "blooddonation-97cc7",
+    "storage_bucket": "blooddonation-97cc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421553013539:android:886498ab2fe1e21b3d0296",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdZbBe4YxktlQGOkCSr3VqX8lagW6bys4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
