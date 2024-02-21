@@ -41,7 +41,7 @@ class SignInPage extends StatelessWidget {
                 height: 10,
               ),
               CustomTextForm(
-                controller: authController.loginemail,
+               // controller: authController.loginemail,
                 icon: Icons.mail,
                 hint: "Email",
                 type: TextInputType.emailAddress,
